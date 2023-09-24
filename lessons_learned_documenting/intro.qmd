@@ -1,6 +1,6 @@
 # Introduction
 
-This is a book about a possible way to create and structure courses and documents for/from/in canvas. 
+This is a book about a possible way to create and structure courses and documents for/from/in canvas, meant as possible Guidelines on documentation. This is not an official document, but the discussion/proposal.
 
 The book and its building blocks can be found in @documentsfourcents23
 

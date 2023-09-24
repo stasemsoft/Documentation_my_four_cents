@@ -1,0 +1,16 @@
+# Alternatives we used or considered
+
++ From canvas: link to material, right into git? 
+	+ github-pages work fine but, is only for public material. 
+	+ maybe create a CI/CD script ourselves that creates html? 
++ alternative: create 1 big pdf (Latex?) with all material. 
+	+ disadvantage: it's a big document, some teachers think that could be intimidating to students. 
+	+ disadvantage: link in canvas still has to be updated manually. We have seen examples in the past with multiple links to (initially) the same document, but after some maintenance the links pointed to different pdfs.  
+	+ disadvantage(?): no auto-update after the student downloads pdf. 
+	+ pdf will nowadays probably be shown in the browser (unless the user configured it differently)
++ alternative: use a link into a 'normal' (~non-github-pages) git repo.
+	+ disadvantage: you see the non-relevant git-info, like a detailed file list (and lots more) in the browser page. Sometimes you have to scroll down before being able to read the document. 
+	+ when it is a git.fhict-repo you have to login; if it is a public repo (github.com et al) then the whole world can see it, which means we have to be sure about copyright issues. 
+	+ pdf will nowadays probably be shown in the browser (unless the user configured it differently), but for extensions likes docx, pptx and other it really is machine dependent how it will be shown.
+	+ When linking to a specific version of a document this alternative could well be an option. 
++ another (very promising!) alternative is ***Quarto***: ned to look more into that!

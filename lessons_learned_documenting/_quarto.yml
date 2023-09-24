@@ -9,6 +9,7 @@ book:
     - index.qmd
     - intro.qmd
     - creating_new_quarto_book.qmd
+    - alternatives.qmd
     - references.qmd
 
 bibliography: references.bib
