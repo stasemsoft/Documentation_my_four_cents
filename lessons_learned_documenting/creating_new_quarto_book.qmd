@@ -1,3 +1,5 @@
+# How to do it...
+
 ## How to create a git repo for a quarto book
 
 TODO
@@ -14,11 +16,14 @@ The `book project` was created, now very time something changed you can create a
 
 ## How to put the files in git
 
-
+TODO
 
 ## How to build the book
 
-You can edit the source documents, like the markdowns, or thee pictures. Probably you will want to add changes in git before building the book. 
+A book is build from `sources`, just like software. Quarto knows how to build from `qmd` (Quarto markdown) and a `_quarto.yml` file. 
+You can edit the source documents, like the markdowns or the pictures. Probably you will want to add changes in git before building the book. 
 
 + Open `index.qmd`
 + ctrl+shift+P for the vs code menu, then start typing `Quarto` (`Qua` should be enough to get `Quarto: Render PDF`. `Enter` starts the build. 
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
