@@ -1,0 +1,10 @@
+# Introduction
+
+This is a book about a possible way to create and structure courses and documents for/from/in canvas. 
+
+The book and its building blocks can be found in  
+[this git repo](https://github.com/stasemsoft/Documentation_my_four_cents)
+
+
+
+See @knuth84 for additional discussion of literate programming.

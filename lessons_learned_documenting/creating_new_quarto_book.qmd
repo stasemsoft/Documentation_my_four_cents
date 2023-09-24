@@ -1,0 +1,24 @@
+## How to create a git repo for a quarto book
+
+TODO
+
+## How to create a new quarto book
+
++ Go to an empty directory. (Possibly within the git repo you created in the previous chapter)
++ Open a CLI (Command Line Interface)
++ In the CLI, run the command `quarto create`. From the options that pop-up, choose `Project`, and as the `Type` choose `book`. 
++ For `Directory` type `.` (current directory). 
++ Then choose if you want to open the `quarto project` you just created, or not. 
+
+The `book project` was created, now very time something changed you can create a new build, see chapter `How to build the book`, but first you may want to add your book to your git.
+
+## How to put the files in git
+
+
+
+## How to build the book
+
+You can edit the source documents, like the markdowns, or thee pictures. Probably you will want to add changes in git before building the book. 
+
++ Open `index.qmd`
++ ctrl+shift+P for the vs code menu, then start typing `Quarto` (`Qua` should be enough to get `Quarto: Render PDF`. `Enter` starts the build. 
