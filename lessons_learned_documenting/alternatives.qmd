@@ -13,4 +13,4 @@
 	+ when it is a git.fhict-repo you have to login; if it is a public repo (github.com et al) then the whole world can see it, which means we have to be sure about copyright issues. 
 	+ pdf will nowadays probably be shown in the browser (unless the user configured it differently), but for extensions likes docx, pptx and other it really is machine dependent how it will be shown.
 	+ When linking to a specific version of a document this alternative could well be an option. 
-+ another (very promising!) alternative is ***Quarto***: ned to look more into that!
++ another (very promising!) alternative is ***Quarto***: need to look more into that!
